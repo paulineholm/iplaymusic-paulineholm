@@ -1,5 +1,11 @@
-NETLIFY ACCESS: https://iplaymusic-pholm.netlify.app
+## iPlayMusic
 
+A music app, that uses Spotify API to give user overview at their favorite music: playlists, albums, songs. Provided with light and dark theme, you must login with your Spotify account to access full functionality. School project.
+
+
+deployed at https://iplaymusic-pholm.netlify.app
+
+Description of the task (provided by school - in Danish only)
 
 # iPlayMusic !
 
